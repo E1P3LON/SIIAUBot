@@ -26,9 +26,9 @@ git clone https://github.com/E1P3LON/SIIAUBot.git
 cd SIIAUBot
 ```
 
-2. Instala las dependencias:
+2. Instala las dependencias usando requirements.txt:
 ```bash
-pip install python-telegram-bot
+pip install -r requirements.txt
 ```
 
 3. Crea un archivo `token.txt` y agrega tu token de bot de Telegram:
