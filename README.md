@@ -36,7 +36,7 @@ pip install -r requirements.txt
 echo "TU_TOKEN_AQUI" > token.txt
 ```
 
-4. Modifica la carrera en `database.py` (por defecto está configurado para ICOM):
+4. Modifica tu clave de carrera en `database.py` (por defecto está configurado para ICOM):
 ```python
 url = "https://siiauescolar.siiau.udg.mx/wal/sspseca.consulta_oferta?ciclop=" + ciclo + "&cup=&majrp=ICOM&mostrarp=1000000"
 ```
