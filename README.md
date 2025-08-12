@@ -89,5 +89,3 @@ python siiau_monitor_bot.py
 
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles
 
----
-⌨️ con ❤️ por [@E1P3LON](https://github.com/E1P3LON) 😊
