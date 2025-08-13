@@ -81,7 +81,8 @@ class BaseDatos:
             except Exception as e:
                 self.logger.error(f"Error procesando clase: {e}")
 
-        # Malla curricular igual
+        # Malla curricular ICOM
+        # Aqui modifica la lista a tu malla
         self.malla = {
             'primero': ["I5288", "I5247", "IG738", "IL340", "IL342", "IL341"],
             'segundo': ["IL352", "IL345", "IL344", "IL345", "IL353", "LT251"],
